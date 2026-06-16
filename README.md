@@ -2,52 +2,61 @@
 
 Brisbane brick & mortar stores selling SATA HDDs and SSDs (500GB & 1TB), with current pricing as of **June 2026**.
 
+Prices verified directly from each store's website on 16 June 2026.
+
 ## Brick & Mortar Stores — Brisbane & Surrounds
 
 | Store | Brisbane/QLD Locations |
 |-------|----------------------|
 | **Centre Com** | Macgregor (567 Kessels Rd), Springwood (Rochedale South) |
-| **Umart** | Multiple QLD stores (Eight Mile Plains, Brisbane City, etc.) |
+| **Umart** | Eight Mile Plains, Brisbane City + more QLD |
 | **MSY** | Multiple QLD stores |
+| **Scorptec** | Tingalpa QLD |
 | **Computer Alliance** | QLD-based, Brisbane stores |
-| **Scorptec** | QLD presence |
 | **GameDude Computers** | Brisbane |
 | **Australian Computer Traders** | East Brisbane |
 | **Worldwide PC** | Booval (Ipswich) |
 | **JB Hi-Fi** | CBD, Chermside, Indooroopilly, Carindale, Garden City, Strathpine, North Lakes |
 | **Harvey Norman** | Multiple Brisbane suburbs |
 
-## Cheapest Prices (AUD) — Updated 16 June 2026
-
-### SATA HDDs
-
-| Item | Cheapest In-Store (Brisbane) | Store |
-|------|------------------------------|-------|
-| **500GB HDD 2.5"** | ~$90 (limited stock — being phased out) | Hard to find in-store new |
-| **1TB HDD 3.5"** | **$145** | **Umart / MSY** (WD Blue) |
-| **1TB HDD 2.5"** | **$145** | **Umart / MSY** (WD Blue 5400RPM) |
+## Verified Prices per Store
 
 ### SATA SSDs (2.5")
 
-| Item | Cheapest In-Store (Brisbane) | Store |
-|------|------------------------------|-------|
-| **500GB SATA SSD** | **$109** | **Scorptec** (PNY CS900) |
-| **500GB SATA SSD** | **$111** | **MSY / Umart** (Seagate BarraCuda) |
-| **1TB SATA SSD** | **$195** | **Umart / MSY** (Team CX2) |
-| **1TB SATA SSD** | **$221** | **JB Hi-Fi** (PNY CS900) |
-| **1TB SATA SSD** | **$225** | **Umart / MSY** (Crucial BX500) |
-| **1TB SATA SSD** | **$229** | **Computer Alliance / Scorptec** (Crucial BX500) |
+| Store | 480/500GB SATA SSD | 1TB SATA SSD |
+|-------|-------------------|-------------|
+| **Centre Com** | **$94** (MSI Spatium S270 480GB, $99 - $5 instant discount) | **$184** (PNY CS900 1TB, $189 - $5 discount) |
+| **Scorptec** (Tingalpa QLD) | **$109** (PNY CS900 500GB) | **$189** (PNY CS900 1TB) |
+| **Umart** | $111 (Seagate BarraCuda 500GB) | $195 (Team CX2 1TB) |
+| **MSY** | $111 (Seagate BarraCuda 500GB) | $195 (Team CX2 1TB) |
+| **Computer Alliance** (QLD) | $179 (Crucial BX500 500GB) | $229 (Crucial BX500 1TB) |
+| **JB Hi-Fi** | — | $221 (PNY CS900 1TB) |
 
-## Price Comparison Summary
+### SATA HDDs
 
-| Item | Best Price | Best Store(s) |
-|------|-----------|--------------|
-| **500GB HDD** | ~$90 | Online/Mwave (scarce in-store) |
-| **1TB HDD** | **$145** | **Umart / MSY** |
-| **500GB SATA SSD** | **$109–$111** | **Scorptec / MSY / Umart** |
-| **1TB SATA SSD** | **$195** | **Umart / MSY** (Team CX2) |
+| Store | 1TB HDD |
+|-------|---------|
+| **Umart** | **$145** (WD Blue 1TB 2.5" 5400RPM) |
+| **MSY** | **$145** (WD Blue 1TB 2.5" 5400RPM) |
+| **Centre Com** | $155 (WD Blue 1TB 3.5" 5400RPM) |
+| **Umart / MSY** | $159 (WD Blue 1TB 3.5" 5400RPM) |
 
-**Bottom line:** Umart and MSY are consistently the cheapest across all four categories. Centre Com and Scorptec are also competitive. JB Hi-Fi and Harvey Norman are convenient but usually $20–80 more expensive for the same items.
+> Note: 500GB HDDs are being phased out and are very hard to find in any Brisbane store.
+
+## Cheapest Overall (Ranked)
+
+| Item | #1 Cheapest | #2 | #3 |
+|------|------------|----|----|
+| **480/500GB SATA SSD** | **$94 — Centre Com** (MSI 480GB) | **$109 — Scorptec** (PNY 500GB) | $111 — Umart / MSY |
+| **1TB SATA SSD** | **$184 — Centre Com** (PNY CS900) | **$189 — Scorptec** (PNY CS900) | $195 — Umart / MSY |
+| **1TB HDD** | **$145 — Umart / MSY** (WD Blue 2.5") | $155 — Centre Com (WD Blue 3.5") | $159 — Umart / MSY (3.5") |
+
+## Recommendation
+
+- **Cheapest SATA SSD overall:** Centre Com ($94 for 480GB, $184 for 1TB PNY CS900 with $5 discount)
+- **Cheapest HDD overall:** Umart or MSY ($145 for WD Blue 1TB)
+- **Best range + price combo:** Umart or MSY (consistently competitive across all categories)
+- **Most convenient locations:** JB Hi-Fi (many stores) but expect to pay 15-30% more
 
 ## Store Contact Details
 
