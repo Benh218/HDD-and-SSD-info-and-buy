@@ -35,12 +35,15 @@ Prices verified directly from each store's website on 16 June 2026.
 
 ### SATA HDDs
 
-| Store | 1TB HDD |
-|-------|---------|
-| **Umart** | **$145** (WD Blue 1TB 2.5" 5400RPM) |
-| **MSY** | **$145** (WD Blue 1TB 2.5" 5400RPM) |
-| **Centre Com** | $155 (WD Blue 1TB 3.5" 5400RPM) |
-| **Umart / MSY** | $159 (WD Blue 1TB 3.5" 5400RPM) |
+| Store | 1TB HDD | 2TB+ HDDs |
+|-------|---------|-----------|
+| **Umart** | **$145** (WD Blue 1TB 2.5" 5400RPM) | — |
+| **MSY** | **$145** (WD Blue 1TB 2.5" 5400RPM) | — |
+| **Centre Com** | $155 (WD Blue 1TB 3.5" 5400RPM) | — |
+| **Umart / MSY** | $159 (WD Blue 1TB 3.5" 5400RPM) | — |
+| **Scorptec** | $115 (WD Blue 1TB 3.5" 7200RPM, *sold out*) | Seagate BarraCuda 4TB **$279** · WD Blue 8TB **$435** · Seagate 8TB **$495** |
+| **Computer Alliance** | — | Seagate BarraCuda 2TB (call for price) · Seagate BarraCuda 4TB **$269** · WD Black 4TB **$399** · WD Purple 4TB **$269** |
+| **Worldwide PC** | — | WD Blue 2TB 3.5" **$241** · WD Blue 6TB 3.5" **$394** · WD Purple Pro 8TB **$648** |
 
 > Note: 500GB HDDs are being phased out and are very hard to find in any Brisbane store.
 
@@ -50,6 +53,20 @@ Prices verified directly from each store's website on 16 June 2026.
 |-------|-------|
 | **Australian Computer Traders** (East Brisbane) | Sells enterprise/ex-government refurbished gear (servers, business laptops). Not a consumer SATA SSD/HDD retailer. |
 | **Harvey Norman** (multiple Brisbane stores) | Website blocks automated access. Based on their general retail markup, expect prices ~15-30% above specialist stores (Umart/MSY/Centre Com). Call or visit for actual pricing. |
+
+### SATA SSDs With DRAM Cache
+
+All budget SSDs listed above (PNY CS900, MSI Spatium S270, BIWIN, Team CX2, ADATA SU630, Kingston A400) are **DRAM-less**. If you want a SATA SSD with a DRAM cache:
+
+| Model | Store | Price | Notes |
+|-------|-------|-------|-------|
+| Crucial MX500 500GB | Umart | **$73** | Clearance/discontinued pricing |
+| Samsung 870 EVO 1TB | MSY | **$499** | 1GB LPDDR4 cache, 5yr warranty |
+| Samsung 870 EVO 1TB | Scorptec | $529 | In stock at Tingalpa QLD |
+| Samsung 870 EVO 500GB | Umart | $299 | Out of stock |
+| Samsung 870 EVO 500GB | Scorptec | $439 | Sold out |
+
+> Other DRAM SSDs (Kingston KC600, WD Blue 3D, SanDisk Ultra 3D, ADATA SU800) were not found in current inventories — likely discontinued or replaced by NVMe.
 
 ## Cheapest Overall (Ranked)
 

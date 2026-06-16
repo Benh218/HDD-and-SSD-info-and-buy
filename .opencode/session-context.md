@@ -22,11 +22,14 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 | JB Hi-Fi | — | $221 (PNY CS900 1TB) |
 
 ### All Stores — HDDs
-| Store | 1TB HDD |
-|-------|---------|
-| Umart / MSY | **$145** (WD Blue 2.5") |
-| Centre Com | $155 (WD Blue 3.5") |
-| Umart / MSY | $159 (WD Blue 3.5") |
+| Store | 1TB HDD | 2TB+ HDD |
+|-------|---------|----------|
+| Umart / MSY | **$145** (WD Blue 2.5") | — |
+| Centre Com | $155 (WD Blue 3.5") | — |
+| Umart / MSY | $159 (WD Blue 3.5") | — |
+| Scorptec | $115 (WD Blue 3.5", sold out) | BarraCuda 4TB $279, WD Blue 8TB $435 |
+| Computer Alliance | — | BarraCuda 4TB $269, WD Black 4TB $399 |
+| Worldwide PC | — | WD Blue 2TB $241, WD Blue 6TB $394 |
 
 ### Australian Computer Traders
 - Primarily enterprise/ex-government refurbished gear; not a consumer parts retailer.
@@ -54,5 +57,21 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 - **SATA SSDs:** BIWIN 512GB ($139), BIWIN 1TB ($189)
 - **HDDs:** WD Blue 2TB ($241), WD Blue 6TB ($394)
 
+## DRAM SATA SSDs — Cheapest Options
+- **All budget SSDs** found (PNY CS900, MSI Spatium S270, BIWIN, Team CX2, ADATA SU630, Kingston A400) are **DRAM-less**.
+- **Cheapest DRAM SSD**: Crucial MX500 500GB at **Umart $73** (likely clearance/discontinued pricing).
+- **Samsung 870 EVO 1TB** — most widely available DRAM SSD:
+  - Computer Alliance: ~$249 (staticICE Jan 2026, verify in-store)
+  - MSY: $499
+  - Scorptec: $529 (in stock at Tingalpa)
+- **Samsung 870 EVO 500GB** — $299 Umart (OOS), $439 Scorptec (sold out).
+- Other DRAM SSDs (Kingston KC600, WD Blue 3D, SanDisk Ultra 3D, ADATA SU800): **not found** in current inventories at these stores — likely discontinued or replaced by NVMe lines.
+
+## Additional Stores Investigated
+| Store | Location | Verdict |
+|-------|----------|---------|
+| **Computer Barn** | Park Ridge QLD | Not viable — repair-focused, no product prices online, temporarily closed |
+| **Concorde Computers** | Strathpine QLD | Not verifiable online — Angular SPA, no server-rendered prices; could call (07) 3205 7277 |
+
 ## Note for Future Sessions
-All 9 stores have been checked. Pricing is complete as of 16 June 2026.
+All 9 original stores checked. DRAM SSD research complete. Two additional stores investigated — neither is a viable replacement for GameDude.
