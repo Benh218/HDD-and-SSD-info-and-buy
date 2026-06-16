@@ -20,9 +20,6 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 | Worldwide PC | $139 (BIWIN 512GB) | $189 (BIWIN 1TB) |
 | Computer Alliance | $179 (Crucial BX500 500GB) | $229 (Crucial BX500 1TB) |
 | JB Hi-Fi | — | $221 (PNY CS900 1TB) |
-| GameDude | $49 (Lexar NS100 512GB)* | — |
-
-\* GameDude prices are unusually low — likely clearance/old stock or mix of refurb. Verify condition.
 
 ### All Stores — HDDs
 | Store | 1TB HDD |
@@ -37,7 +34,7 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 ### Harvey Norman
 - Website blocks automated access. Estimated 15-30% above specialist stores.
 
-## Stores Covered (10 total)
+## Stores Covered (9 total)
 - Centre Com (Macgregor, Springwood) ✅
 - Scorptec (Tingalpa QLD) ✅
 - Umart (Eight Mile Plains, City) ✅
@@ -45,9 +42,10 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 - Worldwide PC (Booval/Ipswich) ✅
 - Computer Alliance ✅
 - JB Hi-Fi ✅
-- GameDude Computers (Springwood) ✅
 - Australian Computer Traders (East Brisbane) ✅ (noted as non-consumer)
 - Harvey Norman (multiple) ❌ (bot-blocked, estimated) ✅
+
+> Note: GameDude Computers was initially included but their physical Springwood store has closed — they are online-only now. Removed from brick-and-mortar list.
 
 ## World Wide PC Store Details
 - **Address:** 130B Brisbane Rd, Booval QLD 4304
@@ -56,10 +54,5 @@ Create a comprehensive, verified list of brick-and-mortar stores in/near Brisban
 - **SATA SSDs:** BIWIN 512GB ($139), BIWIN 1TB ($189)
 - **HDDs:** WD Blue 2TB ($241), WD Blue 6TB ($394)
 
-## GameDude Store Details
-- **Address:** 3353 Pacific Hwy, Springwood QLD 4127
-- **Ph:** (07) 3387 1500
-- **Note:** Sells mix of new and ex-demo/refurbished items. Pricing well below market (2TB HDD for $89 vs Umart's 1TB at $145). Likely old stock. Verify condition.
-
 ## Note for Future Sessions
-All 10 stores have been checked. Pricing is complete as of 16 June 2026.
+All 9 stores have been checked. Pricing is complete as of 16 June 2026.

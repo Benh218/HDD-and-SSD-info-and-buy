@@ -13,7 +13,6 @@ Prices verified directly from each store's website on 16 June 2026.
 | **MSY** | Multiple QLD stores |
 | **Scorptec** | Tingalpa QLD |
 | **Computer Alliance** | QLD-based, Brisbane stores |
-| **GameDude Computers** | Brisbane |
 | **Australian Computer Traders** | East Brisbane |
 | **Worldwide PC** | Booval (Ipswich) |
 | **JB Hi-Fi** | CBD, Chermside, Indooroopilly, Carindale, Garden City, Strathpine, North Lakes |
@@ -32,9 +31,7 @@ Prices verified directly from each store's website on 16 June 2026.
 | **Worldwide PC** (Booval) | $139 (BIWIN 512GB) | $189 (BIWIN 1TB) |
 | **Computer Alliance** (QLD) | $179 (Crucial BX500 500GB) | $229 (Crucial BX500 1TB) |
 | **JB Hi-Fi** | — | $221 (PNY CS900 1TB) |
-| **GameDude Computers** (Springwood) | $49 (Lexar NS100 512GB)\* | — |
 
-> \* GameDude's pricing appears to be older/clearance stock levels. Their stock is a mix of new and ex-demo/refurbished items. Other items on their site sell well below market rates (e.g., 2TB HDDs at $89). Verify stock condition in-store.
 
 ### SATA HDDs
 
@@ -92,12 +89,6 @@ Prices verified directly from each store's website on 16 June 2026.
 ### Scorptec
 - QLD presence
 - Web: scorptec.com.au
-
-### GameDude Computers
-- **Springwood:** 3353 Pacific Hwy, Springwood QLD 4127
-- Ph: (07) 3387 1500
-- Web: gamedude.com.au
-- Note: Sells mix of new and ex-demo/refurb stock. Verify item condition before buying.
 
 ### Australian Computer Traders
 - **East Brisbane:** 911 Stanley St, East Brisbane QLD 4169
