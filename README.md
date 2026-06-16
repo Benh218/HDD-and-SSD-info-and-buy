@@ -29,8 +29,12 @@ Prices verified directly from each store's website on 16 June 2026.
 | **Scorptec** (Tingalpa QLD) | **$109** (PNY CS900 500GB) | **$189** (PNY CS900 1TB) |
 | **Umart** | $111 (Seagate BarraCuda 500GB) | $195 (Team CX2 1TB) |
 | **MSY** | $111 (Seagate BarraCuda 500GB) | $195 (Team CX2 1TB) |
+| **Worldwide PC** (Booval) | $139 (BIWIN 512GB) | $189 (BIWIN 1TB) |
 | **Computer Alliance** (QLD) | $179 (Crucial BX500 500GB) | $229 (Crucial BX500 1TB) |
 | **JB Hi-Fi** | — | $221 (PNY CS900 1TB) |
+| **GameDude Computers** (Springwood) | $49 (Lexar NS100 512GB)\* | — |
+
+> \* GameDude's pricing appears to be older/clearance stock levels. Their stock is a mix of new and ex-demo/refurbished items. Other items on their site sell well below market rates (e.g., 2TB HDDs at $89). Verify stock condition in-store.
 
 ### SATA HDDs
 
@@ -43,12 +47,19 @@ Prices verified directly from each store's website on 16 June 2026.
 
 > Note: 500GB HDDs are being phased out and are very hard to find in any Brisbane store.
 
+### Stores Without Comparable Pricing
+
+| Store | Notes |
+|-------|-------|
+| **Australian Computer Traders** (East Brisbane) | Sells enterprise/ex-government refurbished gear (servers, business laptops). Not a consumer SATA SSD/HDD retailer. |
+| **Harvey Norman** (multiple Brisbane stores) | Website blocks automated access. Based on their general retail markup, expect prices ~15-30% above specialist stores (Umart/MSY/Centre Com). Call or visit for actual pricing. |
+
 ## Cheapest Overall (Ranked)
 
 | Item | #1 Cheapest | #2 | #3 |
 |------|------------|----|----|
 | **480/500GB SATA SSD** | **$94 — Centre Com** (MSI 480GB) | **$109 — Scorptec** (PNY 500GB) | $111 — Umart / MSY |
-| **1TB SATA SSD** | **$184 — Centre Com** (PNY CS900) | **$189 — Scorptec** (PNY CS900) | $195 — Umart / MSY |
+| **1TB SATA SSD** | **$184 — Centre Com** (PNY CS900) | **$189 — Scorptec** (PNY CS900) | $189 — Worldwide PC (BIWIN 1TB) |
 | **1TB HDD** | **$145 — Umart / MSY** (WD Blue 2.5") | $155 — Centre Com (WD Blue 3.5") | $159 — Umart / MSY (3.5") |
 
 ## Recommendation
@@ -57,6 +68,7 @@ Prices verified directly from each store's website on 16 June 2026.
 - **Cheapest HDD overall:** Umart or MSY ($145 for WD Blue 1TB)
 - **Best range + price combo:** Umart or MSY (consistently competitive across all categories)
 - **Most convenient locations:** JB Hi-Fi (many stores) but expect to pay 15-30% more
+- **Note on World Wide PC (Booval/Ipswich):** Also competitive on SATA SSDs ($139 512GB, $189 1TB) — worth checking if you're on the Ipswich side
 
 ## Store Contact Details
 
@@ -82,16 +94,22 @@ Prices verified directly from each store's website on 16 June 2026.
 - Web: scorptec.com.au
 
 ### GameDude Computers
-- Brisbane store
+- **Springwood:** 3353 Pacific Hwy, Springwood QLD 4127
+- Ph: (07) 3387 1500
 - Web: gamedude.com.au
+- Note: Sells mix of new and ex-demo/refurb stock. Verify item condition before buying.
 
 ### Australian Computer Traders
-- East Brisbane
+- **East Brisbane:** 911 Stanley St, East Brisbane QLD 4169
+- Ph: (07) 3391 0000
 - Web: australiancomputertraders.com.au
+- Note: Primarily enterprise/ex-government refurbished gear, not a consumer parts retailer.
 
 ### Worldwide PC
-- 130 Brisbane Rd, Booval QLD 4304
+- **Booval:** 130B Brisbane Rd, Booval QLD 4304
+- Ph: (07) 3812 8288
 - Web: worldwidepc.com.au
+- Hours: Mon-Fri 8:30-5:30, Sat 8:30-3:00
 
 ### JB Hi-Fi
 - Multiple Brisbane stores
